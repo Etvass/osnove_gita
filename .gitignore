@@ -4,3 +4,8 @@ logs_*
 /library*.zip
 /svastara
 /svastara2
+*.users
+*.db
+*.properties
+*.keys
+*.pem
